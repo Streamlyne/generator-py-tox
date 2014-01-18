@@ -1,21 +1,25 @@
 {
   "name": "generator-py-tox",
-  "version": "0.0.0",
-  "description": "A generator for Yeoman",
+  "version": "0.0.1",
+  "description": "A generator for tox.ini files.",
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "python",
+    "py",
+    "tox",
+    "testing"
   ],
-  "homepage": "https://github.com/dreid93/generator-py-tox",
-  "bugs": "https://github.com/dreid93/generator-py-tox/issues",
+  "homepage": "https://github.com/Streamlyne/generator-py-tox",
+  "bugs": "https://github.com/Streamlyne/generator-py-tox/issues",
   "author": {
     "name": "Dawson",
-    "email": "",
+    "email": "dawson@streamlyne.co",
     "url": "https://github.com/dreid93"
   },
   "main": "app/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dreid93/generator-py-tox.git"
+    "url": "git://github.com/Streamlyne/generator-py-tox.git"
   },
   "scripts": {
     "test": "mocha"
